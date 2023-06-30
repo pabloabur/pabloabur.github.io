@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.title-slide {
+  background-color: #F8F8F8;
+  padding: 50px;
+  text-align: center;
+}
+
+.content-slide {
+  background-color: #FFFFFF;
+  padding: 50px;
+}
+
+h1, h2 {
+  color: #333333;
+}
+
+p {
+  color: #666666;
+}
+
+ul {
+  color: #666666;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
